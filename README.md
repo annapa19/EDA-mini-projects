@@ -1,4 +1,4 @@
-# EDA-projects
+# Exploratory Data Analysis Projects
 Applying Exploratory Data Analysis concepts learned
 
 
