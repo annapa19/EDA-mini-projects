@@ -1,4 +1,4 @@
-# EDA-mini-projects
+# EDA-projects
 Applying Exploratory Data Analysis concepts learned
 
 
